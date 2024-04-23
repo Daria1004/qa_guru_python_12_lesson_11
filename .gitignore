@@ -1,5 +1,5 @@
 # Allure
-tests/simple/allure-results
+allure-results
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
